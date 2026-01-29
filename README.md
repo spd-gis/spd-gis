@@ -1,4 +1,3 @@
-Sibusiso Paul Dimba
 This repository contains details regarding the professional profile and qualifications of Sibusiso Paul Dimba, an experienced Examining Officer currently serving with the Zambia Revenue Authority. With over four years of service in revenue administration, Sibusiso specializes in customs regulations, data analytics, and geographic information systems.
 
 🛠 Professional Experience
